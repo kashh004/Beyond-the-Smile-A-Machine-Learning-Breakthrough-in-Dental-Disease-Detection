@@ -807,7 +807,7 @@ with tab_dashboard:
 
     import pymongo
 
-    MONGO_URI = "mongodb+srv://dental_admin:akash2004@cluster0.nz99qzc.mongodb.net/DentalAI?retryWrites=true&w=majority&tls=true"
+    MONGO_URI = "YOUR_URL"
 
     # Try connecting to MongoDB safely
     try:
